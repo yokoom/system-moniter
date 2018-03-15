@@ -1,4 +1,5 @@
-me": "system-monitor",
+{
+  "name": "system-monitor",
   "version": "",
   "description": "",
   "main": "server.py",
